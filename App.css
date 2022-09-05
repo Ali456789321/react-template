@@ -1,0 +1,201 @@
+
+#images {
+  background: url("pexels-tara-winstead-8386422.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 690px;
+}
+
+.marginServ{
+  padding-top: 390px;
+}
+
+.bgserv {
+  background-image: url("https://runwebrun.com/startbox/assets/img/services-1-hero-1920x900.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.bgcont{
+  background-image: url("https://runwebrun.com/startbox/assets/img/contact-hero-1920x900.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+
+.padServ {
+  padding-top: 360px;
+}
+
+.padding {
+  padding-top: 290px;
+}
+
+.spantag {
+  height: 6px;
+  width: 6px;
+  border-radius: 50%;
+}
+
+.spantag2 {
+  height: 6px;
+  width: 6px;
+  border-radius: 50%;
+}
+
+.anchor {
+  text-decoration: none;
+}
+
+.card:hover{
+  transform: scale(1.1);
+}
+
+.card {
+  transition:transform .2s;
+}
+
+.card1 {
+  position: relative;
+  top: -80px;
+}
+
+.card3:hover {
+  transform: scale(0.9);
+}
+.card3{
+  transition: transform .5s;
+  border-color: black;
+}
+
+.card2 {
+  margin-top: 120px;
+}
+
+.image1 {
+  height: 400px;
+}
+
+.background {
+  background: black;
+}
+
+.anchortag {
+  color: black;
+}
+
+.margin {
+  margin-top: 150px;
+}
+
+.Forms {
+  background-image: url("./pexels-maurício-mascaro-712786\ \(1\).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+.Forms2{
+  background-image: url("./pexels-marek-piwnicki-9202292.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+.posi {
+  position: relative;
+  top:80px
+}
+
+.radius {
+  border-radius:  30px;
+}
+
+.border {
+  background:rgb(0, 0, 0, .8);
+}
+
+
+
+
+
+
+/* //Services */
+.radiuserv {
+  border-radius: 20px;
+}
+
+.servhover:hover{
+  transform: scale(1.1);
+}
+
+ .servhover{
+  transition: transform .5s;
+ }
+
+ .h5marg {
+  margin-top: 100px;
+ }
+
+ .widthimg{
+  width:490px;
+ }
+
+ .learn {
+  color: palevioletred;
+  text-decoration-color: palevioletred;
+  text-underline-offset: 3px;
+ }
+
+ .learn:hover {
+  color: palevioletred;
+ }
+
+ .bgserv2 {
+  background: #f54245;
+ }
+
+ .techcolor{
+  background:#e3dac1;
+ }
+
+ .tech5{
+  width: 640px;
+ }
+
+ .techimg{
+  width:150px;
+ }
+
+ .carouselserv{
+  background-image: url("https://runwebrun.com/startbox/assets/img/services-1-hero-1920x900.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 290px;
+ }
+
+
+   /* contact */
+
+ .contPad{
+  padding-left: 15px;
+ }
+
+select.form-control {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7' fill='none'%3e%3cpath fill='%234B4A4D' d='m6 6-.495.495L6 6.99l.495-.495L6 6ZM.505 1.495l5 5 .99-.99-5-5-.99.99Zm5.99 5 5-5-.99-.99-5 5 .99.99Z'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position-x: 95%;
+  background-position-y: calc(50% - 2px);
+}
+
+.checkbox {
+  font-size: 13px; 
+  padding-top:42px;
+  padding-left: 8px;
+}
+
+.errorsize{
+  font-size:13px;
+}
